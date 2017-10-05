@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nyuwireless-unipd/mmwave.svg?branch=master)](https://travis-ci.org/nyuwireless-unipd/mmwave)
+
 # mmWave ns-3 module #
 
 This is an [ns-3](https://www.nsnam.org "ns-3 Website") mmWave module for the simulation
