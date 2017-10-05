@@ -25,5 +25,7 @@ before_install:
   - patch -p1 -N -E -i patch-for-lte.diff
   - rm patch-for-lte.diff
 script:
+  - pwd
+  - ls
   - cd ns-3-dev/
   - ./waf configure --enable-tests --enable-examples && ./waf build
